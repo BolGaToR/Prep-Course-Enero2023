@@ -1,0 +1,10 @@
+Variable:  es un lugar donde se puede guardar un dato que se puede usar o cambiar a futuro
+
+String: es un tipo de dato, una cadena de caracteres
+
+Funciones: es una caja donde se pueden pasar valores y despues de recibir esos valores nos dara un resultado
+esos valores se van a llamar argumentos y van a ser devueltos cuando se use el return
+
+Declaraciones if es una condicion que se usa para que se ejecute o no algo a continuacion
+
+Valores Booleanos: es saber si algo es verdadero o es falso
